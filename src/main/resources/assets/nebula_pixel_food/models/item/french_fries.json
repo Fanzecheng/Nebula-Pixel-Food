@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "nebula_pixel_food:item/french_fries"
+  }
+}
